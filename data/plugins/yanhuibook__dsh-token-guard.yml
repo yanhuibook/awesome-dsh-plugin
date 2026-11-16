@@ -1,0 +1,6 @@
+url: https://github.com/yanhuibook/dsh-token-guard
+name: yanhuibook/dsh-token-guard
+category: dev
+description:
+  en: "Open-source cost dashboard for DSH: per-turn cost, cache hit rate, peak/idle pricing, and subagent route visibility."
+  zh: "DSH 成本看板开源基础版：展示单轮花费、缓存命中率、峰谷计价与子代理路由可见性。"
